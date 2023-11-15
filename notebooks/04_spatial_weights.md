@@ -180,7 +180,7 @@ development of specialized procedures and concepts in the handling of spatial
 weights. This chapter will cover many of these features.
 
 But for now, let's get back to the Rook contiguity graph. A close inspection reveals that this criterion actually places
-a restriction on the spatial relation. More specifically, polygons $0$ and $5$
+a restriction on the spatial relation. More specifically, polygons $0$ and $4$
 are not Rook neighbors, but they do in fact share a common border. However, in
 this instance the sharing is due to a common *vertex* rather than a shared
 *edge*. If we wanted them to be considered as neighbours, we can switch to the more inclusive notion of *Queen* contiguity, which
